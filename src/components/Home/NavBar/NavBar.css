@@ -1,0 +1,11 @@
+.nav-link:hover{
+    background-color: tomato;
+    border-radius: 10px;
+}
+/* .navbar-collapse{
+    align-items: center;
+} */
+nav{
+    margin-left: -15px;
+    margin-right: -15px;
+  }

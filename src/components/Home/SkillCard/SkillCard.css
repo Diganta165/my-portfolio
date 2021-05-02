@@ -1,0 +1,15 @@
+/* .skill-logo{
+    height: 100px;
+} */
+/* .card-img-top{
+    width: 200px;
+    height: 150px;
+    align-items: center;
+    object-fit: cover;
+} */
+
+.skill-set img{
+    width:100px;
+    height: 100px;
+    align-items: center;
+}

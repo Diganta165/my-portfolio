@@ -1,0 +1,16 @@
+.subject{
+    color:#1f85ce;
+
+}
+/* .my-thought{
+    text-align:center;
+} */
+.photo{
+    
+    text-align: center;
+}
+img{
+    height:500px;
+    width:300px;
+    border-radius: 50%;
+}
